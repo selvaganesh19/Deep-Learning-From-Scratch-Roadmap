@@ -14,11 +14,11 @@ Below is the structured curriculum. As we complete each lesson, its status will 
 | :--- | :--- | :--- | :---: | :---: | :---: |
 | **Module 1: Foundations** | Lesson 01 | Introduction to Deep Learning & AI Intuition | ✅ Completed | [Lesson 01](Notes/Lesson-01-Introduction.md) | - |
 | | Lesson 02 | Linear Regression & Gradient Descent | ✅ Completed | [Lesson 02](Notes/Lesson-02-Linear-Regression-and-Gradient-Descent.md) | - |
-| | Lesson 03 | Linear Algebra Intuition (Vectors & Matrices) | ⏳ Pending | - | - |
-| | Lesson 04 | Calculus Intuition (Derivatives & Chain Rule) | ⏳ Pending | - | - |
-| | Lesson 05 | Probability & Statistics for Deep Learning | ⏳ Pending | - | - |
-| **Module 2: Perceptron & Classical ML** | Lesson 06 | Data Preprocessing & Features | ⏳ Pending | - | - |
-| | Lesson 07 | Machine Learning Fundamentals (Supervised vs Unsupervised) | ⏳ Pending | - | - |
+| | Lesson 03 | Linear Algebra Intuition (Vectors & Matrices) | ✅ Completed | [Lesson 03](Notes/Lesson-03-Linear-Algebra-Vectors-and-Matrices.md) | - |
+| | Lesson 04 | Calculus Intuition (Derivatives & Chain Rule) | ✅ Completed | [Lesson 04](Notes/Lesson-04-Calculus-Derivatives-and-Chain-Rule.md) | - |
+| | Lesson 05 | Probability & Statistics for Deep Learning | ✅ Completed | [Lesson 05](Notes/Lesson-05-Probability-and-Statistics.md) | - |
+| **Module 2: Perceptron & Classical ML** | Lesson 06 | Data Preprocessing & Features | ✅ Completed | [Lesson 06](Notes/Lesson-06-Data-Preprocessing-and-Feature-Engineering.md) | - |
+| | Lesson 07 | Machine Learning Fundamentals (Supervised vs Unsupervised) | ✅ Completed | [Lesson 07](Notes/Lesson-07-Machine-Learning-Fundamentals.md) | - |
 | | Lesson 08 | The Perceptron (The Starting Point of DL) | ⏳ Pending | - | - |
 | **Module 3: Neural Networks (ANNs)** | Lesson 09 | Multilayer Perceptrons (MLPs) | ⏳ Pending | - | - |
 | | Lesson 10 | Activation Functions (Sigmoid, ReLU, Softmax, etc.) | ⏳ Pending | - | - |
@@ -38,7 +38,7 @@ Below is the structured curriculum. As we complete each lesson, its status will 
 | | Lesson 24 | Padding, Strides, and Pooling | ⏳ Pending | - | - |
 | | Lesson 25 | Classic CNN Architectures (LeNet, AlexNet, VGG) | ⏳ Pending | - | - |
 | | Lesson 26 | Modern CNNs (ResNet, Inception, MobileNet) | ⏳ Pending | - | - |
-| | Lesson 27 | Transfer Learning & Fine-Tuning | ⏳ Pending | - | - |
+| | Lesson 27 | Transfer Learning & Fine-Ending | ⏳ Pending | - | - |
 | **Module 7: Sequence Models (RNNs)** | Lesson 28 | Recurrent Neural Networks (RNNs) for Sequences | ⏳ Pending | - | - |
 | | Lesson 29 | Long Short-Term Memory (LSTM) & GRU | ⏳ Pending | - | - |
 | | Lesson 30 | Seq2Seq Models & Attention Mechanism | ⏳ Pending | - | - |
@@ -70,7 +70,12 @@ Deep-Learning-From-Scratch-Roadmap/
 │
 ├── Notes/                  # Lesson-by-lesson study notes (.md files)
 │   ├── Lesson-01-Introduction.md
-│   └── Lesson-02-Linear-Regression-and-Gradient-Descent.md
+│   ├── Lesson-02-Linear-Regression-and-Gradient-Descent.md
+│   ├── Lesson-03-Linear-Algebra-Vectors-and-Matrices.md
+│   ├── Lesson-04-Calculus-Derivatives-and-Chain-Rule.md
+│   ├── Lesson-05-Probability-and-Statistics.md
+│   ├── Lesson-06-Data-Preprocessing-and-Feature-Engineering.md
+│   └── Lesson-07-Machine-Learning-Fundamentals.md
 │
 ├── Code/                   # Interactive Python notebooks or scripts
 │
