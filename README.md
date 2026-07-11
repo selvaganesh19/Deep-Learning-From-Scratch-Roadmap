@@ -13,7 +13,7 @@ Below is the structured curriculum. As we complete each lesson, its status will 
 | Module | Lesson | Topic | Status | Notes | Code / Project |
 | :--- | :--- | :--- | :---: | :---: | :---: |
 | **Module 1: Foundations** | Lesson 01 | Introduction to Deep Learning & AI Intuition | ✅ Completed | [Lesson 01](Notes/Lesson-01-Introduction.md) | - |
-| | Lesson 02 | Python & NumPy Foundations | ⏳ Pending | - | - |
+| | Lesson 02 | Linear Regression & Gradient Descent | ✅ Completed | [Lesson 02](Notes/Lesson-02-Linear-Regression-and-Gradient-Descent.md) | - |
 | | Lesson 03 | Linear Algebra Intuition (Vectors & Matrices) | ⏳ Pending | - | - |
 | | Lesson 04 | Calculus Intuition (Derivatives & Chain Rule) | ⏳ Pending | - | - |
 | | Lesson 05 | Probability & Statistics for Deep Learning | ⏳ Pending | - | - |
@@ -69,7 +69,8 @@ Deep-Learning-From-Scratch-Roadmap/
 ├── README.md               # Course Index & Roadmap Tracker
 │
 ├── Notes/                  # Lesson-by-lesson study notes (.md files)
-│   └── Lesson-01-Introduction.md
+│   ├── Lesson-01-Introduction.md
+│   └── Lesson-02-Linear-Regression-and-Gradient-Descent.md
 │
 ├── Code/                   # Interactive Python notebooks or scripts
 │
